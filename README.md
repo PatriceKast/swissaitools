@@ -1,5 +1,5 @@
 # swissaitools
 List of Swiss-Focussed AI Tools
-- chatgpt.ch
-- chat-gpt-schweiz.ch
-- alpineai.swiss
+- https://chatgpt.ch
+- https://chat-gpt-schweiz.ch
+- https://alpineai.swiss
