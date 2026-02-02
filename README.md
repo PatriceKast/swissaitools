@@ -7,3 +7,6 @@ List of Swiss-Focussed AI Tools
 - https://use.ai
 - https://chatgpt.com
 - https://copilot.microsoft.com
+- https://copilot.microsoft
+- https://gemini.google.com
+- https://gemini.google
