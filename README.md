@@ -11,3 +11,5 @@ List of Swiss-Focussed AI Tools
 - https://gemini.google.com
 - https://gemini.google
 - https://m365.cloud.microsoft
+- https://www.openevidence.com
+- https://openevidence.com
