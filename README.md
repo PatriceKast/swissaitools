@@ -10,3 +10,4 @@ List of Swiss-Focussed AI Tools
 - https://copilot.microsoft
 - https://gemini.google.com
 - https://gemini.google
+- https://m365.cloud.microsoft
